@@ -14,7 +14,7 @@ class EmailParser
   end 
 end 
 
-emails1 = "asd@qw.com, per@er.org, Zaza@sugar.net"
+emails1 = ""avi@test.com", "arel@test.com""
 parser1 = EmailParser.new(emails1)
 parser1.parse 
 
